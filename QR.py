@@ -1,3 +1,6 @@
+# Go to terminal and write command pip install 
+# Copy Below code
+
 import qrcode
 
 url= input("Enter Your url: ")
